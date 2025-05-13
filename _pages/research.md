@@ -83,14 +83,20 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 </div>
 
 
-## Other Research Projects
+## Resarch Project as Co-supervisor of PhD students
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-<h3 style="margin-top: 0;">  </h3>
-<p> 
-   </p>
-<p> <strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. </p>
+<h3 style="margin-top: 0;"> Immunosuppressive treatment and risk of bloodstream infection  </h3>
+<p> Bloodstream infections (BSI) are increasingly burdening healthcare systems globally, and mortality rates remains high. Known risk factors for acquiring a BSI include age, gender, comorbidities, and socioeconomic status. The use of immunosuppressant drugs, although effective for various diseases, raises concerns due to an associated increased risk of infection, including BSI. While studies have explored this association in specific patient groups, there is a need for nationwide, population-based data to further understand the relationship between immunosuppressant use and BSI risk. The aim of this PhD project is to assess whether patients using immunosuppressive therapy exhibit a different risk of BSI compared to non-users. </p>
+
+<h3 style="margin-top: 0;">  Virtual care for patients with major cardiac disease. </h3>
+<p> In recent years, virtual consultations (i.e., video or telephone) have gained popularity in healthcare,
+especially following COVID-19 lock-down measures. The adoption of remote care has the potential to fundamentally change disease management and clinical outcomes. However,
+it is noteworthy that remote care has been implemented ubiquitously without prior evidence of similar or
+superior outcomes for patients. This project aims to limit the gap for patients with cardiovascular disease: i) mapping the typical care pathway for patients with virtual hospital visits,ii) assessing clinical outcomes, treatment adherence, and patient satisfaction according to patient care pathway.</p>
 </div>
+
+
 
 
 
