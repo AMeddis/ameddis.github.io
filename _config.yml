@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Alessandra Meddis, PhD"
 title_separator          : "-"
 name                     : &name "Alessandra Meddis"
-description              : &description " Assistant Professor in Biostatistics, Univeristy of Copenhagen, Denmark."
+description              : &description " Assistant Professor in Biostatistics."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AMeddis/ameddis.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Alessandra Meddis"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in Biostatistics, Univeristy of Copenhagen, Denmark."
+  bio              : "Assistant Professor in Biostatistics"
   location         : 
-  employer         : "Section of Biostatistics, University of Copenhagen, Denmark."
+  employer         : "University of Copenhagen, Denmark."
   uri              : # URL
   email            : "alme@sund.ku.dk" 
 
