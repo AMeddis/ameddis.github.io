@@ -25,3 +25,4 @@ Research Interests:
 * Environmental epidemiology
 * Randomized clinical trials
 
+[Download CV](files/CV.pdf)
