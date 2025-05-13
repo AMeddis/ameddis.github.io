@@ -55,7 +55,8 @@ and we employ stochastic interventions to identify the effect of a treatment bre
   In order to improve generalizability on the target population, we employ the danish register-data to obtain calibration weights. <p>
    <p><strong> Statistical challenges:</strong>  Generalizability of results from survey data using observational studies, when exposure and outcome are not independent on the selection mechanism.<p>
   </div>  
-</div>
+
+
 
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
@@ -77,12 +78,6 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
 
-<h3 style="margin-top: 0;"> </h3>
-<p> Registry-based study on postmenopausal women. Risk <p>
-
-
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
-
 <h3 style="margin-top: 0;"> Environmental epidemiological research on delayed effects of exposures to environmental contaminants </h3>
 <p> The emphasis is on prospective studies of birth cohorts exposed to contaminants, especially in the Faroe Islands (Denmark). 
    Research has mainly been focused on exposure to perfluorinated substances, PCBs and fluoride and their effect on negative effects on growth and development in general, such as IQ score, metabolic response, semen abnormalities and  infertility.
@@ -90,6 +85,8 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 <p><strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. <p>
 
 </div>
+
+
 
 
 
