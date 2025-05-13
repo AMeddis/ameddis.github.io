@@ -55,7 +55,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
   In order to improve generalizability on the target population, we employ the danish register-data to obtain calibration weights. <p>
    <p><strong> Statistical challenges:</strong>  Generalizability of results from survey data using observational studies, when exposure and outcome are not independent on the selection mechanism.<p>
   </div>  
-
+</div>
 
 
 
