@@ -59,7 +59,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
-<h3 style="margin-top: 0;">Pseudo-values approach for quantile estimation in Individual Patient Data Meta-analysis</h3>
+<h3 style="margin-top: 0;"> Pseudo-values approach for quantile estimation in Individual Patient Data Meta-analysis </h3>
  <p> Individual Patient Data (IPD) meta-analysis synthesizes evidence based on multiple clinical trials.
    For survival endpoints, several approaches have been previously proposed, that mostly involves hazard ratios and proportional hazard models.
    Quantiles are more flexible and robust quantitative tools for characterizing event times than mean-based regression models, and the proportional hazard assumption is not needed and it allows us to detect potential late treatment effects.
@@ -74,13 +74,20 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 </p>
 </div>
 
+
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
 
-<h3 style="margin-top: 0;">Causal Inference on endometrail cancer risk in postmenopausal women</h3>
+<h3 style="margin-top: 0;"> </h3>
 <p> Registry-based study on postmenopausal women. Risk <p>
 
-**Methodological Challenges:**  
-The intervention is time-varying and influenced by prior outcomes, so we use marginal structural models and G-computation to adjust for time-dependent confounding.
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
+
+<h3 style="margin-top: 0;"> Environmental epidemiological research on delayed effects of exposures to environmental contaminants </h3>
+<p> The emphasis is on prospective studies of birth cohorts exposed to contaminants, especially in the Faroe Islands (Denmark). 
+   Research has mainly been focused on exposure to perfluorinated substances, PCBs and fluoride and their effect on negative effects on growth and development in general, such as IQ score, metabolic response, semen abnormalities and  infertility.
+   <p>
+<p><strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. <p>
 
 </div>
 
