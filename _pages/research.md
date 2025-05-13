@@ -59,7 +59,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 
 
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
 <h3 style="margin-top: 0;"> Pseudo-values approach for quantile estimation in Individual Patient Data Meta-analysis </h3>
  <p> Individual Patient Data (IPD) meta-analysis synthesizes evidence based on multiple clinical trials.
    For survival endpoints, several approaches have been previously proposed, that mostly involves hazard ratios and proportional hazard models.
@@ -76,7 +76,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 </div>
 
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
 
 <h3 style="margin-top: 0;"> Environmental epidemiological research on delayed effects of exposures to environmental contaminants </h3>
 <p> The emphasis is on prospective studies of birth cohorts exposed to contaminants, especially in the Faroe Islands (Denmark). 
