@@ -8,7 +8,7 @@ author_profile: true
 ## Ongoing Projects
 
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; gap: 20px; margin-bottom: 30px; border: 1px solid #ccc; padding: 15px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; gap: 20px; margin-bottom: 30px; border: 1px solid #ccc; padding: 15px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); max-width: 800px;">
   
   <!-- LEFT: Text Content -->
   <div style="flex: 2;">
@@ -31,6 +31,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
   <div style="flex: 1; text-align: right;">
       <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
   </div>
+  
 </div>
 
 
