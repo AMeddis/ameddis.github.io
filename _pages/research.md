@@ -64,7 +64,14 @@ and we employ stochastic interventions to identify the effect of a treatment bre
    For survival endpoints, several approaches have been previously proposed, that mostly involves hazard ratios and proportional hazard models.
    Quantiles are more flexible and robust quantitative tools for characterizing event times than mean-based regression models, and the proportional hazard assumption is not needed and it allows us to detect potential late treatment effects.
    Moreover, despite many methods have been introduced for correlated survival data, they all consider asymptotic results for infinite number of groups, which is not true for a meta-analysis where few clinical trials are pooled together.
-   Here we employ pseudo-values approach to account for the correlation across trials and exact test and confidence interval definition. <p>
+   Here we employ pseudo-values approach to account for the correlation across trials and we define exact test and confidence interval. <p>
+      <p><strong> Statistical challenges:</strong> Pooled quantile estimation for meta-analysis, asymptotic distribution of the quantiles difference. <p>
+      <p>
+  <a href="/files/SlideISCB44_AMeddis.pdf" target="_blank" 
+     style="display: inline-block; padding: 8px 12px; background-color: #2c7be5; color: white; text-decoration: none; border-radius: 5px;">
+    📥 Download Slides (PDF)
+  </a>
+</p>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
