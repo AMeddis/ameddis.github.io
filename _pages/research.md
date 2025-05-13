@@ -85,8 +85,9 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
-<h3 style="margin-top: 0;"> Other projects  </h3>
-<p> As a consultant at the infectious disease group in Hvidovre Hospital, I collaborate with many PhD students on a diverse range of researcg projects. These projects span various areas of clinical and epidemiological research, including Randomized clinical trials, observational studies with time-varying exposures, time-to-event analysis, repeated measurements of prognostic biomarker for infectious diseases. </p>
+<h3 style="margin-top: 0;"> Other projects</h3>
+<p> As a consultant at the infectious disease group in Hvidovre Hospital, I collaborate with many PhD students on a diverse range of researcg projects. 
+  These span various areas of clinical and epidemiological research, including Randomized clinical trials, observational studies with time-varying exposures, time-to-event analysis, repeated measurements of prognostic biomarker for infectious diseases. </p>
 </div>
 
 ## Resarch Project as Co-supervisor of PhD students
