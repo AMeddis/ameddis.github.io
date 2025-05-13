@@ -35,7 +35,7 @@ Studies have shown a relatively higher rate of thrombosis in the first months of
 The reasoning would be that re-starting use of combined oral hormonal contraceptives could increase the risk of thrombosis.  We employ targeted learning methods for longitudinal data to define 
 the effect of a treatment break in a target trial framework for causal inference. Specifically, we compare the two interventions: (1) sustained use versus (2) taking a break within two years,
 and we employ stochastic interventions to identify the effect of a treatment break without focusing on its specific duration and/or timing.<p>
- <p><strong> Methodological challenge:</strong>  Treatment heterogeneity, definition of stochastic intervention, identification problem of the target parameter<p>
+ <p><strong> Statistical challenge:</strong>  Treatment heterogeneity, definition of stochastic intervention, identification problem of the target parameter<p>
  <p>
   <a href="/files/2daymeetingAMeddis.pdf" target="_blank" 
      style="display: inline-block; padding: 8px 12px; background-color: #2c7be5; color: white; text-decoration: none; border-radius: 5px;">
