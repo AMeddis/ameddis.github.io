@@ -24,7 +24,7 @@ The reasoning would be that re-starting use of combined oral hormonal contracept
 the effect of a treatment break in a target trial framework for causal inference. Specifically, we compare the two interventions: (1) sustained use versus (2) taking a break within two years,
 and we employ stochastic interventions to identify the effect of a treatment break without focusing on its specific duration and/or timing.<p>
   </div>
-  <img src="/media/safechoice.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
+  <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
 </div>
 
 <small>[SAFECHOICE Project](https://security-check.regionh.dk/NDBD/validate?config=CMS&data=QNm%2BmI8GDHsDKIpsCmZU3Uj1ntxJo89jGovjwtLtRSX%2B8huzJZsg2ENChY8rJryb%2BIjgBDMnpBNY19Hg%2B4tTWsS9nQBhXFmEWzZOf9Y1AnNcMJnw23aJxpEPo2Hh194FYdu2r1NBtE%2FOmj8JjSHBGlHzMBoe2kfv%2FamgyMYPs7myJ%2BvA3bOgLr64D5%2BdImIVUMKQD9xLJMX4Gne9c6HWfqiOXJO8GMfXJdzHc9GbH1NHdXO450VhYbgE2ysVKrJNcMw6t9rW%2FYsSKGjDZpI1bVzFkK3Fvl865%2F7ZRN9icHLU%2Bq94ZxKtnxj02IGTItuIqfiXkDZCVANcYc1pKXQRN3TPizthdE79C4lTzbjnSh5XsDWKBUsIX71g940dkasOS0wQJyHJt4F0dFUSka7cZw9P%2FaOglS3%2FeMrYrXRBkm7rsUy3W2bt4v8swBkobYZk%2FTHMAzqlUhm%2FS1MX8Q2Vb5uZR6H3jQmI%2BD7Q580llgBgY8ZC51GmYPKSMijGqrdrAAAAAQ%3D%3D).
