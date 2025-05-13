@@ -35,7 +35,23 @@ Studies have shown a relatively higher rate of thrombosis in the first months of
 The reasoning would be that re-starting use of combined oral hormonal contraceptives could increase the risk of thrombosis.  We employ targeted learning methods for longitudinal data to define 
 the effect of a treatment break in a target trial framework for causal inference. Specifically, we compare the two interventions: (1) sustained use versus (2) taking a break within two years,
 and we employ stochastic interventions to identify the effect of a treatment break without focusing on its specific duration and/or timing.<p>
+ <p><strong> Methodological challenge:</strong>  Treatment heterogeneity, definition of stochastic intervention, identification problem of the target parameter<p>
+ <p>
+  <a href="/media/slides-safechoice.pdf" target="_blank" 
+     style="display: inline-block; padding: 8px 12px; background-color: #2c7be5; color: white; text-decoration: none; border-radius: 5px;">
+    📥 Download Slides (PDF)
+  </a>
+</p>
+
+  <p><strong> Hormonal contraception and anxiety:</strong> <p>
+<p>Evidence suggests link between mental health disorders including depression and anxiety and transitions in female hormones. The use of hormonal contraception has previously been asscoated to 
+  an increased risk of depression especially among young users. Because of similar patterns in disease occurrence and overlapping symptoms, 
+  it is not unlikely that hormonal contraception use could also be linked to the development of anxiety disorders. 
+  We are interested in the risk of developing anxiety disorders in current and previous users by analyzing self-reported anxiety from a danish survey. 
+  In order to improve generalizability on the target population, we employ the danish register-data to obtain calibration weights. <p>
+
   </div>
+
 
   <!-- RIGHT: Clickable Image -->
   <div style="flex: 1; text-align: right;">
