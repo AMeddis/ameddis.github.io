@@ -79,9 +79,18 @@ and we employ stochastic interventions to identify the effect of a treatment bre
 <p> The emphasis is on prospective studies of birth cohorts exposed to contaminants, especially in the Faroe Islands (Denmark). 
    Research has mainly been focused on exposure to perfluorinated substances, PCBs and fluoride and their effect on negative effects on growth and development in general, such as IQ score, metabolic response, semen abnormalities and  infertility.
    </p>
-<p> <strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. </p>
+<p> <strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. Developing quantile g-computation with unidirectionality constraints. </p>
 </div>
 
+
+## Other Research Projects
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<h3 style="margin-top: 0;">  </h3>
+<p> 
+   </p>
+<p> <strong> Statistical challenges:</strong> Correlation across polluttants and collineraity issues. </p>
+</div>
 
 
 
