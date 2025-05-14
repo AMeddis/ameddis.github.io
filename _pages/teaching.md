@@ -23,7 +23,7 @@ Here is a selection of courses I regularly teach or contribute to:
  analysis, based on students requests.
 
 <p>
-  <a href="/files/TeachingPortfolio.pdf" target="_blank" 
+  <a href="/files/Teaching_Portfolio.pdf" target="_blank" 
      style="display: inline-block; padding: 8px 12px; background-color: #2c7be5; color: white; text-decoration: none; border-radius: 5px;">
     📥 Download Teaching Portfolio (PDF)
   </a>
