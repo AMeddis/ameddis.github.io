@@ -20,12 +20,12 @@ author_profile: true
   max-width: 800px;">
 
    <!-- RIGHT: Clickable Image -->
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 2; text-align: right;">
       <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- LEFT: Text Content -->
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <h3 style="margin-top: 0;">Causal Inference on Side Effects of Hormonal Contraception</h3>
     <p>This project, part of the <strong>SAFECHOICE</strong> initiative,  where we aim to understand the effects of hormonal contraception in women, specifically focusing on side effects. 
       As part of this project, we conducted a <strong>nationwide survey</strong> across Denmark, asking women about their experiences with contraception, 
@@ -50,7 +50,7 @@ and we employ stochastic interventions to identify the effect of a treatment bre
   an increased risk of depression especially among young users. Because of similar patterns in disease occurrence and overlapping symptoms, 
   it is not unlikely that hormonal contraception use could also be linked to the development of anxiety disorders. 
   We are interested in the risk of developing anxiety disorders in current and previous users by analyzing self-reported anxiety from a danish survey. 
-  In order to improve generalizability on the target population, we employ the danish register-data to obtain calibration weights.</p>
+  Register-data are used to generalize results on the target population of danish women, without the restriction on the survey responders.</p>
    <p> <strong> Statistical challenges:</strong>  Generalizability of results from survey data using observational studies, when exposure and outcome are not independent on the selection mechanism.</p>
   </div>  
 </div>
