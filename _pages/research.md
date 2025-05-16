@@ -7,6 +7,8 @@ author_profile: true
 
 ## Ongoing Projects
 
+Here is a selection of projects I am currently working on: 
+
 <div style="display: flex;
   flex-direction: row; 
   align-items: flex-start; 
