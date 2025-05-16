@@ -19,10 +19,6 @@ author_profile: true
   box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
   max-width: 800px;">
 
-   <!-- RIGHT: Clickable Image -->
-  <div style="flex: 1; text-align: right;">
-      <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
-  </div>
 
   <!-- LEFT: Text Content -->
   <div style="flex: 2;">
@@ -53,6 +49,12 @@ and we employ stochastic interventions to identify the effect of a treatment bre
   Register-data are used to generalize results on the target population of danish women, without the restriction on the survey responders.</p>
    <p> <strong> Statistical challenges:</strong>  Generalizability of results from survey data using observational studies, when exposure and outcome are not independent on the selection mechanism.</p>
   </div>  
+
+   <!-- RIGHT: Clickable Image -->
+  <div style="flex: 1; text-align: right;">
+      <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
+  </div>
+
 </div>
 
 
