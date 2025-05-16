@@ -20,12 +20,12 @@ author_profile: true
   max-width: 800px;">
 
    <!-- RIGHT: Clickable Image -->
-  <div style="flex: 2; text-align: right;">
+  <div style="flex: 1; text-align: right;">
       <img src="/images/Safe Choice logo-v3_blue.jpg" alt=" " style="width: 150px; height: auto; border-radius: 8px;">
   </div>
 
   <!-- LEFT: Text Content -->
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <h3 style="margin-top: 0;">Causal Inference on Side Effects of Hormonal Contraception</h3>
     <p>This project, part of the <strong>SAFECHOICE</strong> initiative,  where we aim to understand the effects of hormonal contraception in women, specifically focusing on side effects. 
       As part of this project, we conducted a <strong>nationwide survey</strong> across Denmark, asking women about their experiences with contraception, 
