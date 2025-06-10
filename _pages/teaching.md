@@ -16,7 +16,11 @@ Here is a selection of courses I regularly teach or contribute to:
   My focus is on binary outcome, contingency table andpower-sample size calculation, and logistic regression analysis.
 - [**Experimental Design in Neuroscience**](https://kurser.ku.dk/course/sneu23005u/)
   Master level course whose focus is for the students to obtain sufficient knowledge regarding experimental design and
-  methods in neuroscience to be able to read and critically evaluate scientific papers. 
+  methods in neuroscience to be able to read and critically evaluate scientific papers.
+- [**Statistics for experimental medical researchers **](https://phdcourses.dk/Course/131321)
+  Master level course whose focus is for the students to obtain sufficient knowledge regarding experimental design and
+  methods in neuroscience to be able to read and critically evaluate scientific papers.
+  
 - **Monthly Lectures** 
  for Master and PhD medical students at the Department of Infectious Disease at Hvidovre Hospital.
  Explain various statistic concepts and methods. This can vary from mixed model, to g-computation methods and survival
