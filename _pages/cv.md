@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics at Institute Curie, Paris, France. Inference and validation of prognostic marker for correlated survival data with application to cancer. (2017-2020)
+* M.S. in Statistics, Network and data Optimisations. Politecnico di Torino, Italy (2015-2017)
+* B.S. in Mathematical Engineering. Politecnico di Torino, Italy. (2012-2015)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2022-current: Assistant Professor in Biostatistics
+  * Section of Biostatistics, Univeristy of Copenhagen, Denmark.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2021 - Dec 2022 : Postdoc in Biostatistics
+  * Section of Biostatistics, Univeristy of Copenhagen, Denmark.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
