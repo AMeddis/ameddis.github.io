@@ -27,14 +27,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Biostatistics"
   location         : 
-  employer         : "University of Copenhagen, Denmark."
+  employer         : "University of Copenhagen."
   uri              : # 
   email            : "alme@sund.ku.dk" 
 
   # Academic websites
   academia         : # 
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=da&user=oQX4A_gAAAAJ"
   impactstory      : # URL
   orcid            : 
   linkedin         : "https://www.linkedin.com/in/alessandra-meddis/"
