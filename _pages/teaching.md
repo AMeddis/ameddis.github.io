@@ -17,9 +17,9 @@ Here is a selection of courses I regularly teach or contribute to:
 - [**Experimental Design in Neuroscience**](https://kurser.ku.dk/course/sneu23005u/)
   Master level course whose focus is for the students to obtain sufficient knowledge regarding experimental design and
   methods in neuroscience to be able to read and critically evaluate scientific papers.
-- [**Statistics for experimental medical researchers **](https://phdcourses.dk/Course/131321)
-  Master level course whose focus is for the students to obtain sufficient knowledge regarding experimental design and
-  methods in neuroscience to be able to read and critically evaluate scientific papers.
+- [**Statistics for experimental medical researchers**](https://phdcourses.dk/Course/131321)
+  PhD course on basic statistics whose focus is for the Ph.D. students in biomedical research who work in a laboratory or similar setting,
+  performing experiments on e.g., cells, tissues, mice, or humans.
   
 - **Monthly Lectures** 
  for Master and PhD medical students at the Department of Infectious Disease at Hvidovre Hospital.
