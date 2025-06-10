@@ -11,7 +11,9 @@ redirect_from:
 
 ### Background
 
-I am currently an Assistant Professor of Biostatistic in the Univeristy of Copenhagen, Denmark. I work at the Section of Biostatistics, Department of Public Health, where I arrived for my postdoc. I started my career as a researcher at the Institute Curie, Paris, France during a 6 months exchange for the Master thesis, and I successively started my PhD on survival analysis with a focus on clustered data, such as meta-analysis and multicentric data in the field of breast cancer. As for now, my research primarly includes applied and theoretical methodology for longitudinal and time-to-event data, causal inference and targeted learning in observational studies. Moreover, my recent work also focuses on quantile estimaton for time-to-event data in meta-analysis and pseudo-values observations. Many projects are based on the danish registry data or randomized clinical trials. I collaborate with medical doctors and epidemiologist for a wide range of projects and I provide statistical support for a group of PhD and master medical students in the Infectious disease department in Hvidovre Hospital, Denmark.
+I am currently an Assistant Professor of Biostatistics at the University of Copenhagen, Denmark. I work in the Section of Biostatistics within the Department of Public Health, where I first arrived as a postdoctoral researcher. My academic journey began at the Institut Curie in Paris, France, where I conducted a six-month research exchange for my Master’s thesis. I then pursued a PhD in survival analysis, focusing on clustered data such as meta-analyses and multicenter studies in the context of breast cancer.
+My research primarily centers on applied and theoretical methodologies for longitudinal and time-to-event data, with a particular interest in causal inference and targeted learning in observational studies. Recently, I have also explored quantile estimation for time-to-event data in meta-analyses using pseudo-value approaches.
+Many of my projects draw on data from Danish national health registries and randomized clinical trials. I collaborate closely with medical doctors and epidemiologists across a wide range of studies, and I provide statistical guidance to PhD and Master’s students in the Department of Infectious Diseases at Hvidovre Hospital, Denmark.
 
 ### Research Interests:
 
@@ -26,7 +28,7 @@ I am currently an Assistant Professor of Biostatistic in the Univeristy of Copen
 ### Other Activities
 
 <p style="font-size: 90%;">
-I am currently the PhD coordinator of our Biostatistics program at the University of Copenhagen.  
+I am currently the PhD coordinator of <a href="https://phd-biostatistics.ku.dk/steering-group/" target="_blank">Graduate Programme in Biostatistics and Bioinformatics</a> at the University of Copenhagen.  
 I am also partially funded by the <a href="https://smartbiomed.dk/people/fellows" target="_blank">SMARTbiomed Pioneer Center</a> for my involvement in research on causal inference methods applied to women's health.
 </p>
 
