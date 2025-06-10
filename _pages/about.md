@@ -15,7 +15,6 @@ I am currently an Assistant Professor of Biostatistic in the Univeristy of Copen
 
 ### Research Interests:
 
-
 * Causal Inference from longitudinal observational data
 * Methodology for complex intervenation settings
 * Survival analysis and competing risks
@@ -23,4 +22,26 @@ I am currently an Assistant Professor of Biostatistic in the Univeristy of Copen
 * Environmental epidemiology
 * Randomized clinical trials
 
+
+### Other Activities
+
+<p style="font-size: 90%;">
+I am currently the PhD coordinator of our Biostatistics program at the University of Copenhagen.  
+I am also partially funded by the <a href="https://smartbiomed.dk/people/fellows" target="_blank">SMARTbiomed Pioneer Center</a> for my involvement in research on causal inference methods applied to women's health.
+</p>
+
+
+
 [Download CV](files/CV.pdf)
+
+
+
+
+
+<p style="font-size: 0.8em; color: #888; text-align: center; margin-top: 20px;">
+  alme@sund.ku.dk <br> 
+  Office 15.2.15, Section of Biostatistics, University of Copenhagen,<br>
+  Øster Farimagsgade 5, Entrance B, P.O.B. 2099,<br>
+  DK-1014 Copenhagen K, Denmark
+</p>
+
