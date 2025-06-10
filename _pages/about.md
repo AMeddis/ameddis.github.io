@@ -38,7 +38,7 @@ I am also partially funded by the <a href="https://smartbiomed.dk/people/fellows
 
 
 
-<p style="font-size: 0.8em; color: #888; text-align: center; margin-top: 20px;">
+<p style="font-size: 0.8em; color: #888; margin-top: 20px;">
   alme@sund.ku.dk <br> 
   Office 15.2.15, Section of Biostatistics, University of Copenhagen,<br>
   Øster Farimagsgade 5, Entrance B, P.O.B. 2099,<br>
