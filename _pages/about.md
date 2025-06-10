@@ -28,8 +28,7 @@ Many of my projects draw on data from Danish national health registries and rand
 ### Other Activities
 
 <p style="font-size: 90%;">
-I am currently the PhD coordinator of <a href="https://phd-biostatistics.ku.dk/steering-group/" target="_blank">Graduate Programme in Biostatistics and Bioinformatics</a> at the University of Copenhagen.  
-I am also partially funded by the <a href="https://smartbiomed.dk/people/fellows" target="_blank">SMARTbiomed Pioneer Center</a> for my involvement in research on causal inference methods applied to women's health.
+I am currently the PhD coordinator of <a href="https://phd-biostatistics.ku.dk/steering-group/" target="_blank">Graduate Programme in Biostatistics and Bioinformatics</a> at the University of Copenhagen.<br> I am partially funded by the <a href="https://smartbiomed.dk/people/fellows" target="_blank">SMARTbiomed Pioneer Center</a> for my involvement in research on causal inference methods applied to women's health.
 </p>
 
 
